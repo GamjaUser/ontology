@@ -11,7 +11,6 @@ body {
 }
 
 /* 헤더 */
-
 .site-header {
   background: #172b4d;
   color: white;
@@ -28,7 +27,6 @@ body {
 }
 
 /* 네비게이션 */
-
 .site-nav a {
   color: white;
   text-decoration: none;
