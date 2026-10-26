@@ -1,0 +1,41 @@
+/* 전체 css */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  color: #222;
+}
+
+/* 헤더 */
+
+.site-header {
+  background: #172b4d;
+  color: white;
+  padding: 16px 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+/* 네비게이션 */
+
+.site-nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.site-nav a:hover {
+  color: #b9c9e4;
+}
